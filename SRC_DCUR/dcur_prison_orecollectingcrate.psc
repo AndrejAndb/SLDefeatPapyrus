@@ -1,0 +1,3 @@
+Scriptname dcur_prison_orecollectingcrate extends ObjectReference  
+
+dcur_prisonQuestScript Property pqs Auto

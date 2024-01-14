@@ -1,0 +1,2 @@
+Scriptname dcur_nonremovablegagScript extends dcur_nonremovablegenericitemScript
+

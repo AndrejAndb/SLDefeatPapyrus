@@ -1,0 +1,36 @@
+scriptname _sdqf_snp_01 extends quest hidden
+referencealias property alias__sdra_male auto
+referencealias property alias__sdra_female auto
+referencealias property alias__sdra_sexlight auto
+referencealias property alias__sdra_bystander_03 auto
+locationalias property alias__sdla_current auto
+referencealias property alias__sdra_strapon auto
+referencealias property alias__sdra_bystander_01 auto
+referencealias property alias__sdra_bystander_04 auto
+referencealias property alias__sdra_strapon_cbbe auto
+referencealias property alias__sdra_sanguine_marker auto
+referencealias property alias__sdra_sanguine auto
+referencealias property alias__sdra_naamah auto
+referencealias property alias__sdra_bed auto
+referencealias property alias__sdra_bed_01 auto
+referencealias property alias__sdra_bed_03 auto
+referencealias property alias__sdra_marker auto
+referencealias property alias__sdla_lockposition auto
+referencealias property alias__sdra_bystander_05 auto
+referencealias property alias__sdra_bystander_02 auto
+referencealias property alias__sdra_strapon_unbp auto
+referencealias property alias__sdra_strapon_thorn auto
+referencealias property alias__sdra_erect_male auto
+referencealias property alias__sdra_bed_02 auto
+referencealias property alias__sdra_meridiana auto
+function fragment_5()
+endfunction
+function fragment_3()
+endfunction
+_sdqs_snp property snp auto
+_sdqs_config property config auto
+formlist property _sdflp_invalidrace auto  
+globalvariable property _sdgv_snp_delay  auto
+globalvariable property _sdgvp_gamedayspassed  auto  
+_sdqs_fcts_constraints property fctconstraints  auto
+;This file was cleaned with PapyrusSourceHeadliner 1

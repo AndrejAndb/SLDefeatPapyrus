@@ -1,0 +1,18 @@
+scriptname slsw_removalspellscript extends activemagiceffect  
+imagespacemodifier property slsw_tam_ism auto
+imagespacemodifier property slsw_tamlight_ism auto
+imagespacemodifier property slsw_tc_ism auto
+imagespacemodifier property slsw_vp_ism auto
+imagespacemodifier property slsw_vplight_ism auto
+imagespacemodifier property slsw_mf_ism auto
+imagespacemodifier property slsw_mflight_ism auto
+imagespacemodifier property slsw_bd auto
+imagespacemodifier property slsw_ef_ism auto
+imagespacemodifier property slsw_mt_ism auto
+imagespacemodifier property slsw_roa_ism auto
+imagespacemodifier property slsw_sk_ism auto
+imagespacemodifier property slsw_td auto
+imagespacemodifier property slsw_tf_ism auto
+event oneffectstart(actor aktarget, actor akcaster)
+endevent
+;This file was cleaned with PapyrusSourceHeadliner 1

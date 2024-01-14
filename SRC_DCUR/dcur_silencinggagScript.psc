@@ -1,0 +1,1 @@
+Scriptname dcur_silencinggagScript extends dcur_nonremovablegagScript 
